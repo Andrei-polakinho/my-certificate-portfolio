@@ -11,7 +11,7 @@
 - [Computer Architecture and Networks Lab](./certificates/Computer%20Architecture%20and%20Networks%20Lab.pdf)
 - [Emotional Intelligence in the Workplace](./certificates/Emotional%20Intelligence%20in%20the%20Workplace.pdf)
 - [Data Interpretation](./certificates/Data%20Interpretation.pdf)
-- [Hackathon-Unicesumar](./certificates/Hackathon%20-%20Unicesumar.pdf)
+- [Hackathon-Unicesumar](./certificates/Hackathon%20Unicesumar.pdf)
 
 
 ---
