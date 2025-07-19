@@ -25,6 +25,6 @@ I’m a technology professional, with a degree in Software Engineering and speci
 
 ---
 
-🔗 [LinkedIn](www.linkedin.com/in/andrei-santos-191954271)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andrei-santos-191954271/)  
 📧 [andrei.software.santos@gmail.com]
 
