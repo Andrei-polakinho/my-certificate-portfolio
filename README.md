@@ -12,7 +12,7 @@
 - [Emotional Intelligence in the Workplace](./certificates/Emotional%20Intelligence%20in%20the%20Workplace.pdf)
 - [Data Interpretation](./certificates/Data%20Interpretation.pdf)
 - [Hackaton-Unicesumar](./certificates/Hackaton-Unicesumar.pdf)
-- [Gestão de Projetos](/Santander%20Academy-Gestão%20de%20Projetos.pdf)
+- [Project Management & Agile Fundamentals](/Santander%20Academy-Gestão%20de%20Projetos.pdf)
 
 
 
